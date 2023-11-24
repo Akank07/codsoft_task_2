@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="C:\CODSOFT INTERNSHIP\PORTFOLIO CSS\portfolio.css">
+<title> myportfolio_page </title>
+<style>
+body{
+background-color:#c25edb;
+}
+#ul1{
+  top:0px;
+  position:sticky;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+  height:50%;
+}
+
+#li1{
+  float:right;
+  color:white;
+  height:50%;
+}
+#a1 {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  height:50%;
+}
+ #a1:hover {
+  background-color: orange;
+} 
+h3{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:purple;
+font-size:30px;
+background-color:black;
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<td><img src="C:\CODSOFT INTERNSHIP\LOGO\pngtree-beauty-logo-design-png-image_8947095.png" id="im2"> </td>
+<td> <h1 id="d1"><center><i>MY PORTFOLIO </i></center></h1> </td>
+</tr>
+</table>
+<ul id="ul1">
+  <li id="li1"> <a href="#linkedin" id="a1">LinkedIn</a></li> 
+  <li id="li1"> <a href="#contact" id="a1">Contact</a></li>
+ <li id="li1"> <a href="#gallery"id="a1">Gallery</a></li>
+  <li id="li1"> <a href="#About" id="a1">About</a></li>
+</ul>
+<center><div></center>
+<center><img src="C:\CODSOFT INTERNSHIP\PORTFOLIO\myimg.jpg" id="im1"></center>
+</div>
+<table>
+<tr>
+<td id="p1"> <p><center> <h2 id="abt1"> <b> ABOUT ME:- </b> </h2> </center>
+I am Akankshya Panda currently pursuing my bachelor of technology(B.tech) in Computer Science and Engineering from <b>INSTITUTE OF TECHNICAL EDUCATION AND RESEARCH (ITER), SOA UNIVERSITY. </b> I am a tech enthusiast and love to learn new skills to contribute something fruitful to the Indian tech industry in the near future. I have a good hold on java as my basic course in engineering. Being a quick learner and a good listener are my tool qualities. I believe in team work and cooperation. As of now being an undergraduate I am acquiring some good tech skills which will prove an asset for me in the future. 
+</p>  </td>
+ </tr>
+<tr>
+<td id="p2"> <p> <center> <h2 id="skill"> <b> MY SKILLS:- </b> </h2> </center>
+<ul>    <li> Java </li>
+        <li> Data Structures and Algorithms </li>
+	<li> Graph Theory </li>
+	<li> Cascading Style Sheets </li>
+	<li> HTML5 </li>
+	<li> Python Fundamentals for Beginners </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="p3"> <p> <center> <h2 id="project"> <b> PROJECT SECTION:- </b> </h2> </center>
+<div>
+<ul>
+<a href="C:\CODSOFT INTERNSHIP\LANDING PAGE HTML CODE\landingpage1.html"> <li> Landing page on a self customized music app using HTML and CSS </li> </a>
+<a href="C:\CODSOFT INTERNSHIP\PORTFOLIO HTML\portfolio.html"> <li> Portfolio Page using HTML and CSS </li> </a>
+<a href="C:\CODSOFT INTERNSHIP\CALC HTML\calc3.html"> <li> Simple Calculator using javascript </li> </a>
+</ul>
+</div>
+<br><br><br><br><br><br>
+<center><table></center>
+<tr>
+<td> <a href="#mail"> <img src="C:\CODSOFT INTERNSHIP\ICONS\mail-line.png"></a></td>
+<td> </td>
+<td> <a href="#copyright"> <img src="C:\CODSOFT INTERNSHIP\ICONS\copyright-line.png"></a></td>
+<td>  </td>
+<td> <a href="#linkedin"> <img src="C:\CODSOFT INTERNSHIP\ICONS\linkedin-line.png"></a></td>
+<td>  </td>
+<td> <a href="#facebook"> <img src="C:\CODSOFT INTERNSHIP\ICONS\facebook-line.png"></a> </td>
+</tr>
+</table> 
+<br><br><br><br>
+<h3> WATCH MY RESUME:- </h3>
+<a href="C:\CODSOFT INTERNSHIP\RESUME\resume.html"> my resume </a>
+<br><br><br><br>
+<footer id="myfooter">
+<ul id="ul3"> 
+<li> Contact: 669988**** </li>
+<li> <a href="newcoder12@yahoo.com"> newcoder12@yahoo.com </a> </li>
+</footer>	
+</body>
+</html>
