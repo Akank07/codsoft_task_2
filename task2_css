@@ -1,0 +1,58 @@
+.li{
+list-style-type:none;
+height:80%;
+width:80%;
+}
+.li:hover{
+height:85%;
+width:85%;
+}
+#p1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:purple;
+font-size:50px;
+background-color:black;
+}
+#p2{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:pink;
+font-size:20px;
+background-color:black;
+}
+#img1{
+float:right;
+padding:0px 0px 0px 0px;
+border-radius:50%;
+height:14%;
+width:15%;
+}
+#img2{
+float:right;
+height:12%;
+width:14%;
+}
+h1{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:black;
+font-size:300%;
+}
+h3{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:purple;
+font-size:50px;
+background-color:black;
+}
+input{
+float:right;
+padding:0px 0px 0px 0px;
+border:solid 5px black;
+font-size:30px;
+align:left;
+width:400px;
+height:50px;
+border-radius:5 rem;
+background-color:light blue;
+
+}
+  
+           
